@@ -14,10 +14,11 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font-family: 'Cutive-Mono', serif;
+  font-family: 'Cutive Mono', serif;
   font-size: small;
   text-align: center;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
