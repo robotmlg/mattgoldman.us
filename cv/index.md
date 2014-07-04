@@ -1,7 +1,8 @@
 ---
 layout: default
-title: CV
+title: Résumé
 ---
+#Résumé
 
 Matt is currently a full time student at Rutgers University in New Brunswick,
 New Jersey, but he is looking for summer employment.
