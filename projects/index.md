@@ -13,3 +13,7 @@ name of each for more information and code.
 [99 Bottle of Beer on the Wall](/projects/99bottles) - prints out lyrics *and* sings
 
 [Rocky IV](/projects/rocky4) - a robotic hand that plays Rock, Paper, Scissors
+
+## Other Projects
+
+[This Website](https://bitbucket.org/robotmlg/mattgoldman.us) - view the source of this site on Bitbucket.org
