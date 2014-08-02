@@ -1,3 +1,13 @@
 name: Matt Goldman
 highlighter: pygments
 exclude: [s3_website.yml]
+
+
+pages_list:
+  Home: '/'
+  Contact: '/contact'
+  FAQ: '/faq'
+  Résumé: '/cv'
+  Projects: '/projects'
+
+
