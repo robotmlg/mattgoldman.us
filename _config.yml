@@ -1,6 +1,16 @@
+# Site settings
 name: Matt Goldman
+title: mattgoldman.us
+email: matt@mattgoldman.us
+description: "Rutgers CS/Math major and general tech enthusiast"
+baseurl: ""
+url: "http://mattgoldman.us"
+
+# Build settings
 highlighter: pygments
+permalinks: pretty
 exclude: [s3_website.yml]
+
 
 
 pages_list:
@@ -9,5 +19,3 @@ pages_list:
   FAQ: '/faq'
   Résumé: '/cv'
   Projects: '/projects'
-
-
