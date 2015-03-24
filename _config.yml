@@ -14,8 +14,9 @@ exclude: [s3_website.yml]
 
 
 pages_list:
-  Home: '/'
-  Contact: '/contact'
-  FAQ: '/faq'
-  Résumé: '/cv'
-  Projects: '/projects'
+  - Home: '/'
+  - Projects: '/projects'
+  - Résumé: '/cv'
+  - Blog: '/blog'
+  - FAQ: '/faq'
+  - Contact: '/contact'
