@@ -8,7 +8,7 @@ url: "http://mattgoldman.us"
 
 # Build settings
 highlighter: pygments
-permalinks: pretty
+permalink: /blog/:year/:title/
 exclude: [s3_website.yml]
 
 

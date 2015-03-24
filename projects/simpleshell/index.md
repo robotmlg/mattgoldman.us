@@ -5,7 +5,7 @@ title: Simple Shell
 
 # Simple Shell
 
-![Simple Shell screenshot](shell.png)
+![Simple Shell screenshot](/img/simple-shell-screenshot.png)
 
 The code for this project can be found [here, at my bitbucket page](https://bitbucket.org/robotmlg/simple-shell).
 
