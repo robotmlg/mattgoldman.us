@@ -14,7 +14,6 @@ exclude: [s3_website.yml]
 
 
 pages_list:
-  - Home: '/'
   - Projects: '/projects'
   - Résumé: '/cv'
   - Blog: '/blog'
