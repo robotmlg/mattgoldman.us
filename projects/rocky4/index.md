@@ -16,4 +16,4 @@ And here's the main source code.  The include file is just a library to communic
 with the accelerometer used to read the player's hand position.  It's from the
 [RobotC Driver Suite](http://botbench.com/blog/robotc-driver-suite/) written by
 [Xander Soldaat at BotBench.com](http://botbench.com/blog/robotc-driver-suite/).
-<script src="https://gist.github.com/robotmlg/1b2b4a23dd9369904899.js"></script>
+<script src="https://bitbucket.org/robotmlg/rocky-iv/src/14c7baa8e2326e022a1b641bac3c8c2d6c8ba3f8/RPS.c?embed=t"></script>
