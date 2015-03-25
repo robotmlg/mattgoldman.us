@@ -17,21 +17,28 @@ title: mattgoldman.us
         <p><a href="/faq/" class="btn btn-default btn-primary btn-lg">Learn more &raquo;</a></p>
       </div>
 
-      <!-- Example row of columns -->
-      <div class="row">
-        <div class="col-md-4">
-          <h2>Interested?</h2>
-          <p>You can read more about me in the FAQ.</p>
-          <p><a class="btn btn-default" href="/faq/">Read it &raquo;</a></p>
-       	</div>
-        <div class="col-md-4">
-          <h2>Hiring?</h2>
-          <p>I'm looking for an internship or job for Summer 2015.  Why don't you <a href="https://www.linkedin.com/profile/view?id=280553285">visit me on LinkedIn</a> or check out my CV?</p>
-          <p><a class="btn btn-default" href="/cv/">Check it out &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
+      <div class="col-md-4">
+        <div class="tron">
           <h2>Contact me</h2>
           <p>Visit my profiles on <a href="http://twitter.com/robotmlg">Twitter</a> or <a href="https://facebook.com/robotmlg">Facebook</a>, or <a href="mailto:matt+homepage@mattgoldman.us">send me an email</a>. Or click below for more contact methods.</p>
           <p><a class="btn btn-default" href="/contact/">Contact &raquo;</a></p>
+        </div>
+        <div class="tron">
+          <h2>Hiring?</h2>
+          <p>I graduate from Rutgers in May 2016.  Why don't you <a href="https://www.linkedin.com/profile/view?id=280553285">visit me on LinkedIn</a> or check out my CV?</p>
+          <p><a class="btn btn-default" href="/cv/">Check it out &raquo;</a></p>
+        </div>
+      </div>
+
+      <div class="col-md-8">
+        <div class="tron">
+          {% for page in site.posts limit:1 %}
+          <h2><a href="{{ page.url }}">Recent blog post - {{ page.title }}</a></h2>
+        <p class="meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+          <p>
+          {{ page.excerpt }}
+          </p>
+          <p><a class="btn btn-default" href="{{ page.url }}">Read more &raquo;</a></p>
+          {% endfor %}
         </div>
       </div>

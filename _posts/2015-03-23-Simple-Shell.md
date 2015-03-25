@@ -2,6 +2,7 @@
 layout: post
 title:  "Simple Shell"
 date:   2015-03-23
+author: Matt
 categories: rutgers programming project C
 ---
 
