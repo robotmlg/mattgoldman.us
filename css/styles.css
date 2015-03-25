@@ -1,7 +1,7 @@
 .tron{
   background-color: #eeeeee;
   border-radius: 6px;
-  padding: 30px 30px;
+  padding: 15px 30px 30px;
   margin-bottom: 30px;
   color: inherit;
   max-width: 100%;
@@ -9,4 +9,9 @@
 
 img {
   max-width: 100%
+}
+
+footer p{
+  margin: 0;
+  padding: 0;
 }
