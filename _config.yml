@@ -11,7 +11,7 @@ highlighter: pygments
 permalink: /blog/:year/:title/
 exclude: [s3_website.yml]
 
-
+excerpt-separator: ""
 
 pages_list:
   - Projects: '/projects'
