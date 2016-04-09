@@ -3,37 +3,44 @@ layout: default
 title: mattgoldman.us
 ---
 
-  <div class="jumbotron">
-    <h1>Matt Goldman</h1>
-		<p>Welcome to the personal webpage of me, Matt Goldman.  You check out some projects I've done, view my CV, or contact me for more information.  Click the button below to read a brief FAQ about me.</p>
-    <p><a href="/faq/" class="btn btn-default btn-primary btn-lg">Learn more &raquo;</a></p>
-  </div>
-  <div class="row">
+<div class="jumbotron">
+    <div id="header-photo" style="float:left; margin:0; width:33%;">
+        <img src="photo.jpg" height=300 />
+    </div>
+    <div id="header-text" style="float:left; margin:0; width:66%;">
+        <h1>Matt Goldman</h1>
+        <p>Welcome to the personal webpage of me, Matt Goldman.  You check out some projects I've done, view my CV, or contact me for more information.  Click the button below to read a brief FAQ about me.</p>
+        <p><a href="/faq/" class="btn btn-default btn-primary btn-lg">Learn more &raquo;</a></p>
+    </div>
+    <!-- Spacer to ensure jumbotron doesn't collapse -->
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>
+<div class="row">
     <div class="col-md-4">
-      <div class="tron">
-        <h2>Contact me</h2>
-        <p>Visit my profiles on <a href="http://twitter.com/robotmlg">Twitter</a> or <a href="https://facebook.com/robotmlg">Facebook</a>, or <a href="mailto:matt+homepage@mattgoldman.us">send me an email</a>. Or click below for more contact methods.</p>
-        <p><a class="btn btn-default btn-warning" href="/contact/">Contact &raquo;</a></p>
-      </div>
-      <!--
-      <div class="tron">
-        <h2>Hiring?</h2>
-        <p>I graduate from Rutgers in May 2016.  Why don't you <a href="https://www.linkedin.com/profile/view?id=280553285">visit me on LinkedIn</a> or check out my CV if you're hiring?</p>
-        <p><a class="btn btn-default btn-warning" href="/cv/">Check it out &raquo;</a></p>
-      </div>
-      -->
+        <div class="tron">
+            <h2>Contact me</h2>
+            <p>Visit my profiles on <a href="http://twitter.com/robotmlg">Twitter</a> or <a href="https://facebook.com/robotmlg">Facebook</a>, or <a href="mailto:matt+homepage@mattgoldman.us">send me an email</a>. Or click below for more contact methods.</p>
+            <p><a class="btn btn-default btn-warning" href="/contact/">Contact &raquo;</a></p>
+        </div>
+  <!--
+  <div class="tron">
+    <h2>Hiring?</h2>
+    <p>I graduate from Rutgers in May 2016.  Why don't you <a href="https://www.linkedin.com/profile/view?id=280553285">visit me on LinkedIn</a> or check out my CV if you're hiring?</p>
+    <p><a class="btn btn-default btn-warning" href="/cv/">Check it out &raquo;</a></p>
+  </div>
+  -->
     </div>
 
     <div class="col-md-8">
-      <div class="tron">
-        {% for page in site.posts limit:1 %}
-        <h2><a href="{{ page.url }}">Recent blog post - {{ page.title }}</a></h2>
-        <p class="meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-        <p>
-        {{ page.content }}
-        </p>
-        <p><a class="btn btn-default btn-warning" href="{{ page.url }}">Read more blog posts &raquo;</a></p>
-        {% endfor %}
-      </div>
+        <div class="tron">
+            {% for page in site.posts limit:1 %}
+            <h2><a href="{{ page.url }}">Recent blog post - {{ page.title }}</a></h2>
+            <p class="meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+            <p>
+            {{ page.content }}
+            </p>
+            <p><a class="btn btn-default btn-warning" href="{{ page.url }}">Read more blog posts &raquo;</a></p>
+            {% endfor %}
+        </div>
     </div>
-  </div>
+</div>
