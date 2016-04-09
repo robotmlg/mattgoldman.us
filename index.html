@@ -28,9 +28,9 @@ title: mattgoldman.us
         <h2><a href="{{ page.url }}">Recent blog post - {{ page.title }}</a></h2>
         <p class="meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
         <p>
-        {{ page.excerpt }}
+        {{ page.content }}
         </p>
-        <p><a class="btn btn-default btn-warning" href="{{ page.url }}">Read more &raquo;</a></p>
+        <p><a class="btn btn-default btn-warning" href="{{ page.url }}">Read more blog posts &raquo;</a></p>
         {% endfor %}
       </div>
     </div>
