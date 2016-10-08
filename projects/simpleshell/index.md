@@ -7,7 +7,7 @@ title: Simple Shell
 
 ![Simple Shell screenshot](/img/simple-shell-screenshot.png)
 
-The code for this project can be found [here, at my bitbucket page](https://bitbucket.org/robotmlg/simple-shell).
+The code for this project can be found [here, at my github page](https://github.com/robotmlg/simple-shell).
 
 This simple shell can run any external command with I/O piping between them.
 It has cd and exit built in, and uses a table of function pointers to run them.

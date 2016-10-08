@@ -12,7 +12,7 @@ As a project for my operating systems class at Rutgers (198:416), we were assign
 to create a simple shell with I/O piping.  I learned a lot in the completion
 of this project, specifically how I/O piping actually works on an OS level.
 
-The code for this project can be found [on my bitbucket page](https://bitbucket.org/robotmlg/simple-shell).
+The code for this project can be found [on my Github page](https://github.com/robotmlg/simple-shell).
 
 
 More information about this project can be found [on the projects page](/projects/simpleshell).
