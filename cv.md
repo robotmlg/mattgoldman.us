@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 permalink: /cv/
 ---
-#Résumé
+# Résumé
 
 <!---
 Matt is currently a full time student at Rutgers University in New Brunswick,

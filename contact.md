@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-#Contact Me
+# Contact Me
 
 Here's a list of ways to contact me sorted in decreasing order of preference:
 

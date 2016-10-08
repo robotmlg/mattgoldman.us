@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 permalink: /faq/
 ---
-#FAQ
+# FAQ
 
 ### Who are you?
 I’m just this guy, you know? You may know me from when I was voted TIME Magazine‘s Person of the Year in 2006.
