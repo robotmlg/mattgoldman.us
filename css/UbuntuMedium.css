@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: local('Ubuntu Medium'), local('Ubuntu-Medium'), url('/fonts/UbuntuMedium/UbuntuMedium.eot');
+    src: url('/fonts/UbuntuMedium/UbuntuMedium.eot') format('embedded-opentype'),
+         url('/fonts/UbuntuMedium/UbuntuMedium.woff2') format('woff2'),
+         url('/fonts/UbuntuMedium/UbuntuMedium.woff') format('woff'),
+         url('/fonts/UbuntuMedium/UbuntuMedium.ttf') format('truetype'),
+         url('/fonts/UbuntuMedium/UbuntuMedium.svg#UbuntuMedium') format('svg');
+    font-style: normal;
+    font-weight: 500;
+}
