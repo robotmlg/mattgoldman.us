@@ -28,4 +28,4 @@ Four.  In 2012, I was on the game show *The Challege*, airing on MSG Varsity, wi
 
 ### Who's your favorite sibling?
 
-I love my sister Rachel so much. You can find her at twitter.com/rgoldwoman.
+I love my sister Rachel so much. You can find her on Twitter at [@rgoldwoman](twitter.com/rgoldwoman) _[Note: this FAQ is maintained by Rachel - Ed.]
