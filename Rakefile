@@ -25,7 +25,7 @@ def jekyll(command)
   with_bundler "jekyll #{command}"
 end
 
-def s3(command, options = '--force')
+def s3(command, options = '')
   with_bundler "s3_website #{command} #{options}"
 end
 
