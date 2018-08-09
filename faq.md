@@ -24,7 +24,7 @@ My sport of choice to watch on TV is ice hockey, and I root for the New Jersey D
 Vim, but everyone knows that [*real* programmers use Butterflies](http://xkcd.com/378/).
 
 ### What's your [Bacon Number](http://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers)?
-Four.  In 2012, I was on the game show *The Challege*, airing on MSG Varsity, with my high school's team.  *The Challenge* is hosted by [Jared Cotter](http://en.wikipedia.org/wiki/Jared_Cotter), who has a bacon number of 3, according to [OracleOfBacon.org](http://oracleofbacon.org/).  Therefore, my Bacon Number is 4.
+Four.  In 2012, I was on the game show *The Challenge*, airing on MSG Varsity, with my high school's team.  *The Challenge* is hosted by [Jared Cotter](http://en.wikipedia.org/wiki/Jared_Cotter), who has a bacon number of 3, according to [OracleOfBacon.org](http://oracleofbacon.org/).  Therefore, my Bacon Number is 4.
 
 ### Who's your favorite sibling?
 
