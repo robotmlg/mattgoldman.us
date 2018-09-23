@@ -11,9 +11,7 @@ I guess I'm a video game journalist now. Skip this post if you've never played a
 1. They moved all the buttons around on my wheel. This is probably a good thing, since in FH3 the button layout was clearly done by someone who had never seen the Logitech G25 before. (For example, the two buttons on the wheel itself are pause and change camera, whereas buttons you might actually want to use like e-brake are over on the shifter button panel.)  Unfortunately...
 2. My wheel feels a lot floatier than in FH3.  Maybe this is "more realistic," but it feels like I'm hydroplaning all the time.  Not a great experience.
 3. They redesigned the whole festival aesthetic from FH3, and I'm not sure it's better.  This was due, since FH2 and FH3 were essentially identical in terms overall look. It's fine, just different. Although I am _not_ a fan of the new menu layout. It's more haphazard than in previous games, and it's harder to find what you're looking for.
-5. It really does look like England, whereas parts of FH2 and 3 kind of look same-y. The suburbs of Surfer's Paradise in FH3 basically look the same as the suburbs of Nice in FH2.  FH4's England though, it really looks like England, and English people agree with me.
-
-    https://www.twitter.com/ultrabrilliant/status/1041627315640389632
+5. It really does look like England, whereas parts of FH2 and 3 kind of look same-y. The suburbs of Surfer's Paradise in FH3 basically look the same as the suburbs of Nice in FH2.  FH4's England though, it really looks like England, and [English people agree with me.](https://www.twitter.com/ultrabrilliant/status/1041627315640389632)
 
 6. I continue to be not very good on gravel. But that puts me in good company with F1 World Champion Mika Hakkinen.
 
@@ -25,7 +23,7 @@ I guess I'm a video game journalist now. Skip this post if you've never played a
 4. In addition to the showcase events, they have “horizon stories” that it seems like you’ll do little “chapters” of as you progress through the game.  This is fine, but see previous point about plot.
 10. The developers have still not addressed my number one feature request, which is to let you set default control settings on a per-car basis.  I often play on the "manual with clutch" setting, but it would be great if I could set up cars that never had a stick shift to default to paddle shifters instead. Same deal with traction control: let me default TCR off on my 1961 Alpine A110 for the most realistic experience.
 
-So, will I buy this game? Well, I played FH2 on a copy my roommate in college won for free in a reddit video-making contest, and I just bought FH3 a few weeks ago on a super sale (the base game plus all expansions for $$$), so at this point, **no**. Ask me again in 3 years.
+So, will I buy this game? Well, I played FH2 on a copy my roommate in college won for free in a reddit video-making contest, and I just bought FH3 a few weeks ago on a super sale (the base game plus all expansions for the low price of $40), so at this point, **no**. Ask me again in 3 years.
 
 
 BONUS extra list item:  Why can't I save my progress in the Forza demos? Couldn't in the FH3 demo, still can't in the FH4 demo. You guys definitely have the load/save code written, and there's enough demo content that I might want to save and come back later. Try harder guys.
