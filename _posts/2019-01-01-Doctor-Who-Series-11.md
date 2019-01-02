@@ -18,4 +18,4 @@ categories: tv
 9. E01 - The Woman Who Fell to Earth
 10. E02 - The Ghost Monument
 
-That is all.
+_Resolutions_ is the top, but that's not really saying much considering how weak the competition is.  Here's hoping for a better series 12.  Jodie Whittaker is _killing it_ though, so I'm looking forward to it.
