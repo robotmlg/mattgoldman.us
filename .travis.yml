@@ -7,7 +7,10 @@ rvm:
 branches:
   only: master
 before_install: gem update --system
-script: bundle exec rake deploy
+script: 
+  - bundle exec rake build
+  - bundle exec s3_website install
+  - java -cp $(bundle show s3_website)/*.jar s3.website.Push
 cache: bundler
 env:
   global:
