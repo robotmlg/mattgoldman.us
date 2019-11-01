@@ -3,6 +3,7 @@ rvm:
   - 2.5.1
 branches:
   only: master
+before_script: gem update --system
 script: bundle exec rake deploy
 cache: bundler
 env:
