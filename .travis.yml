@@ -6,7 +6,9 @@ rvm:
   - 2.5.1
 branches:
   only: master
-before_install: gem update --system
+before_install: 
+  - gem update --system
+  - gem install bundle:1.16.1
 script: 
   - bundle exec rake build
   - bundle exec s3_website install
