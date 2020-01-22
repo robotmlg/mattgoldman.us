@@ -7,7 +7,7 @@ title: Projects
 
 Here are some projects I've done that I'm particularly proud of.
 
-* [Tabs](tabs) - Some guitar tabs I've transcribed
+* [Tabs](/tabs) - Some guitar tabs I've transcribed
 
 ## Programming Projects
 
