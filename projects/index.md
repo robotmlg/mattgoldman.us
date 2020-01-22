@@ -5,8 +5,9 @@ title: Projects
 
 # My Projects
 
-Here are some projects I've done that I'm particularly proud of. Click on the
-name of each for more information and code.
+Here are some projects I've done that I'm particularly proud of.
+
+* [Tabs](tabs) - Some guitar tabs I've transcribed
 
 ## Programming Projects
 
