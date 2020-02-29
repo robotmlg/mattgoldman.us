@@ -4,7 +4,7 @@ language:
 jdk: openjdk8
 rvm:
   - 2.5.1
-branches:		
+branches:
   only: master
 before_install: 
   - gem update --system
