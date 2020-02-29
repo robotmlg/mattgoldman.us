@@ -9,7 +9,7 @@ before_install:
   - gem install bundler:1.16.1
 script: 
   - bundle exec rake build
-  - bundle exec s3_website install
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; the bundle exec s3_website install; fi'
   - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then java -cp $(bundle show s3_website)/*.jar s3.website.Push; fi'
 cache: bundler
 env:
