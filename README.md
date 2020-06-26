@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/robotmlg/mattgoldman.us.svg?branch=master)](https://travis-ci.org/robotmlg/mattgoldman.us)
+[![Build Status](https://travis-ci.com/robotmlg/mattgoldman.us.svg?branch=master)](https://travis-ci.com/robotmlg/mattgoldman.us)
 
 My personal website. Built with [Twitter Bootstrap](http://getbootstrap.com/), [Jekyll](https://jekyllrb.com/), and [Travis CI](https://travis-ci.org/).  Hosted on [AWS](https://aws.amazon.com/).
 
