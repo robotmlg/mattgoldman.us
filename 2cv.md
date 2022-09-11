@@ -65,11 +65,12 @@ where more powerful and larger cars paid more tax. The original models had a
 602 cc engine. Some 2CV aficionados consider 29 hp to be "too powerful", and 
 prefer the 24 hp 435 cc engine from earlier 2CV4 models.
 
-Miscellaneous 2CV features
-the front bench seat can be fully removed 
-the tire jack handle can also be used to crank-start the car
-the headlights can be aimed up or down using a knob under the dashboard
-
+## Miscellaneous 2CV features
+* the front bench seat can be fully removed by simply sliding it all the way 
+  back.  I believe the idea was that you could drive to a park, take the seat
+  out, sit on it and eat your lunch, then put it back in your car and drive home.
+* the tire jack handle can also be used to crank-start the car
+* the headlights can be aimed up or down using a knob under the dashboard
 
 
 ## Info for other 2CV owners
