@@ -16,6 +16,7 @@ excerpt-separator: ""
 pages_list:
   - Projects: '/projects'
   - Résumé: '/cv'
+  - 2CV: '/2cv'
   - Blog: '/blog'
   - FAQ: '/faq'
   - Contact: '/contact'
