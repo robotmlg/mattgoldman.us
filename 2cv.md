@@ -72,6 +72,12 @@ prefer the 24 hp 435 cc engine from earlier 2CV4 models.
 * the tire jack handle can also be used to crank-start the car
 * the headlights can be aimed up or down using a knob under the dashboard
 
+## Ephemera
+
+I have started a collection of 2CV-related brochures and such from the era of
+my 2CV.  I've scanned these and they can be viewed on my
+[Internet Archive Profile](https://archive.org/details/@robotmlg?tab=uploads)
+
 
 ## Info for other 2CV owners
 
