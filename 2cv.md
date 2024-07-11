@@ -9,7 +9,7 @@ permalink: /2cv/
 
 In 1986, the 2CV6 Spécial was the low end trim, which has no dome light, no ash 
 tray, no radio, and only one sun visor (I installed a second one). This car was 
-originally sold in Italy and imported to the USA in 2019. I belive he red paint 
+originally sold in Italy and imported to the USA in 2019. I belive the red paint 
 is original; the blue-grey paint was added by the previous owner to make the car 
 look like the higher-end "Charleston" trim level.
 
@@ -29,6 +29,10 @@ My 2CV has won the following awards at car shows I've brought it to:
 * [2022 Gallaway & Crane Funeral Home Car Show](https://gcfuneralhome.com) - Best Foreign
 * [2022 River Edge Car Show](https://www.recarshow.org/pastshows) - First Place - Import 1980 and up
 * [2022 New Hope Auto Show](https://newhopeautoshow.com/2022-winners/) - Third Place - French Connection
+* [2023 Rebels & Redcoats Car Show](https://www.washingtoncrossingpark.org/event/rebels-and-redcoats-car-show-2023/) - First Place - French
+* [2023 New Hope Auto Show](https://newhopeautoshow.com/2023-winners/) - First Place - French Connection (Won by default as the only French car)
+* [2024 Bernardsville Car Show](https://mainstreetbernardsville.org/carshow24) - First Place - 1980s
+* [2024 Rebels & Redcoats Car Show](https://www.washingtoncrossingpark.org/event/independence-day-celebration-rebels-redcoats-car-show-2024/) - Second Place - French
 
 
 ![My 2CV at the 2022 River Edge Car Show](/img/2cv/recs.jpeg)
